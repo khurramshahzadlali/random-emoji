@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: salmon;
+    background-color: #ffc83d;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -11,7 +11,7 @@ body {
 }
 h2 {
     font-size: 2rem;
-    color: aliceblue;
+    color: #d48c00;
 }
 .section {
   text-align: center;
@@ -36,5 +36,5 @@ filter: grayscale(0)
 .emoji-code {
     font-weight: 800;
     font-size: 2rem;
-    color:dodgerblue;
+    color:#d48c00;
 }
